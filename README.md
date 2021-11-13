@@ -1,1 +1,1 @@
-Repositório novo-projeto-aprender - aprendendo git
+Repositório novo-projeto-aprender - aprendendo git e python
